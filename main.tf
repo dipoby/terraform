@@ -5,6 +5,7 @@ terraform {
      name = "Example-Workspace"
    }
  }
+ 
   required_providers {
     aws = {
       source  = "hashicorp/aws"
